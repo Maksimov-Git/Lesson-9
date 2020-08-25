@@ -1,0 +1,19 @@
+C:\Users\Юлия\Desktop\Desktop\Lesson 10\Task 3\bin\Debug\Task 3.exe
+C:\Users\Юлия\Desktop\Desktop\Lesson 10\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Юлия\Desktop\Desktop\Lesson 10\Task 3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Юлия\Desktop\Desktop\Lesson 10\Task 3\obj\x86\Debug\Task 3.exe
+C:\Users\Юлия\Desktop\Desktop\Lesson 10\Task 3\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 2\bin\Debug\Task 3.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 2\bin\Debug\Task 3.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 2\obj\x86\Debug\Task 3.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 2\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 3\obj\x86\Debug\Task 3.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 3\obj\x86\Debug\Task 3.pdb
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 3\bin\Debug\Task 3.exe
+C:\Users\Alex\Desktop\C# Essential\Home work\Lesson 10\Task 3\bin\Debug\Task 3.pdb
+G:\ОТ МШ\ITVDN\02 [ITVDN] C# Essential\дз\HomeWork Answers\Lesson 9\Task 3\bin\Debug\Task 3.exe
+G:\ОТ МШ\ITVDN\02 [ITVDN] C# Essential\дз\HomeWork Answers\Lesson 9\Task 3\bin\Debug\Task 3.pdb
+G:\ОТ МШ\ITVDN\02 [ITVDN] C# Essential\дз\HomeWork Answers\Lesson 9\Task 3\obj\x86\Debug\Task 3.csprojAssemblyReference.cache
+G:\ОТ МШ\ITVDN\02 [ITVDN] C# Essential\дз\HomeWork Answers\Lesson 9\Task 3\obj\x86\Debug\Task 3.csproj.CoreCompileInputs.cache
+G:\ОТ МШ\ITVDN\02 [ITVDN] C# Essential\дз\HomeWork Answers\Lesson 9\Task 3\obj\x86\Debug\Task 3.exe
+G:\ОТ МШ\ITVDN\02 [ITVDN] C# Essential\дз\HomeWork Answers\Lesson 9\Task 3\obj\x86\Debug\Task 3.pdb
